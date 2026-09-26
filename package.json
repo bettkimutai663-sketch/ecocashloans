@@ -1,0 +1,14 @@
+{
+ "name": "ecocash-loans",
+ "version": "1.0.0",
+ "description": "EcoCash Loan Application",
+ "main": "index.tsx",
+ "type": "module",
+ "scripts": {
+   "dev": "bun run index.tsx",
+   "start": "bun run index.tsx"
+ },
+ "dependencies": {
+   "hono": "^4.0.0"
+ }
+}
